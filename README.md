@@ -1,9 +1,9 @@
 # Brain-Trainer-App
 
 By creating this application I learned using:
-    *Buttons  
-    *CountDownTimer 
-    *GridLayout
+    * Buttons  
+    * CountDownTimer 
+    * GridLayout
     
 The purpose of this game is to chose the correct answer for the additions of random numbers between 0 and 20.
 The countdown timer starts at 30 seconds.
